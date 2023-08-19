@@ -8,6 +8,9 @@ import CodeConfirm from "./pages/CodeConfirm";
 import AllowNotification from "./pages/AllowNotification";
 import AppLayout from "./pages/Layouts/AppLayout";
 import Home from "./pages/Home";
+import Explore from "./pages/Explore";
+
+
 //Plan Layout Onboarding Process Layout (Logged out)
 function App() {
   return (
@@ -40,16 +43,19 @@ function App() {
 
       <Routes>
         <Route>
-          exact path = { ["/home"]}
+          exact path = { ["/home", "/explore"]}
         </Route>
       </Routes>
       <AppLayout>
         <Routes>
           <Route exact path="/home" element={<Home />} />
+          <Route exact path="/explore" element={<Explore />} />
         </Routes>
       </AppLayout>
     </BrowserRouter>
   );
 }
+
+export default App;
 
 export default App;
