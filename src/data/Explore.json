@@ -2,7 +2,7 @@
     "people": [
         {
             "title": "April Underwood",
-            "description": "CEO and Founder, local laboratory. Co-founder"
+            "description": "CEO and Founder, local laboratory. Co-founder #ANajkaslkdasld"
         },
         {
             "title": "Helena Price",
@@ -39,24 +39,20 @@
             "description": "CEO and Founder, local laboratory. Co-founder"
         },
         {
-            "title": "April Underwood",
+            "title": "Arts",
             "description": "CEO and Founder, local laboratory. Co-founder"
         },
         {
-            "title": "April Underwood",
+            "title": "Entertainment",
             "description": "CEO and Founder, local laboratory. Co-founder"
         },
         {
-            "title": "April Underwood",
+            "title": "Knowledge",
             "description": "CEO and Founder, local laboratory. Co-founder"
         },
         {
-            "title": "April Underwood",
+            "title": "Hustle",
             "description": "CEO and Founder, local laboratory. Co-founder"
-        },
-        {
-            "title": "April Underwood",
-            "description": "CEO and Founder, local laboratory. Co-founder"
-        }
+        } 
     ]
 }
